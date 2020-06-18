@@ -153,10 +153,10 @@ extern "C" void resetPins();
 #endif
 
 #ifndef LATITUDE
-#define LATITUDE                    48.858360  // [Latitude] Your location to be used with sunrise and sunset
+#define LATITUDE                    50.976845  // [Latitude] Your location to be used with sunrise and sunset
 #endif
 #ifndef LONGITUDE
-#define LONGITUDE                   2.294442   // [Longitude] Your location to be used with sunrise and sunset
+#define LONGITUDE                   7.810791   // [Longitude] Your location to be used with sunrise and sunset
 #endif
 
 #ifndef IR_RCV_MIN_UNKNOWN_SIZE
